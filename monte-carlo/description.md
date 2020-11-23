@@ -31,4 +31,3 @@ All we have to do is generate random (x, y) pairs and then check if $x^2 + y^2 â
 8. If increment < number of iterations, repeat from 2
 9. Calculate $Ï€ = 4 * \frac{number of circle points}{number of square points}$
 10. Terminate
-
