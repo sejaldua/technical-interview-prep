@@ -1,4 +1,4 @@
-## Flood Fill
+# 733. Flood Fill
 
 An `image` is represented by a 2-D array of integers, each integer representing the pixel value of the image (from 0 to 65535).
 
@@ -10,7 +10,7 @@ At the end, return the modified image.
 
 ## Examples
 
-### Example 1:
+### Example 1
 ```
 Input: 
 image = [[1,1,1],[1,1,0],[1,0,1]]

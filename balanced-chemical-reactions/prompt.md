@@ -1,4 +1,4 @@
-## Balanced Chemical Reactions
+# Balanced Chemical Reactions
 
 For a chemical reaction represented by a string, verify that the chemical
 reaction is a balanced reaction (i.e. that we didn't somehow lose or gain
